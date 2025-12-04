@@ -40,15 +40,18 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ---
 ## CIRCUIT DIAGRAM
-<img width="836" height="455" alt="image" src="https://github.com/user-attachments/assets/e5181151-836f-4f80-8f56-53b23ff05c74" />
+![20251203_215924](https://github.com/user-attachments/assets/3f037fb3-6cbd-41bf-ba89-b0497d4bf9a4)
 
+## SIMULATION CIRCUIT DIAGRAM
+![20251203_215950](https://github.com/user-attachments/assets/bf1f0b45-c288-4025-9997-4e4bbaedb648)
 
 ## MODEL GRAPH
-<img width="913" height="559" alt="image" src="https://github.com/user-attachments/assets/c8d28c41-6f3e-44a6-a9da-2b798cf07346" />
+![20251203_220051](https://github.com/user-attachments/assets/13ec216b-63ce-4d18-ae47-94605769dc4f)
 
 ---
 
 ## DESIGN
+![20251203_220106](https://github.com/user-attachments/assets/54416e36-29e1-4cda-b14a-0e2e5191c15d)
 
 Given: fH = 1 KHz = 1/ (2πRC) Let C = 0.1 µF, R = 1.6 KΩ
 For n = 2, α (damping factor) = 1.414, Passband gain = Ao = 3 - α =3 – 1.414 = 1.586.
@@ -75,26 +78,14 @@ PROCEDURE - (LPF):
 
 
 ## TABULATION
-
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
-		
+![20251203_220202](https://github.com/user-attachments/assets/3e6e6553-a12e-4422-b613-13fa9056f3cb)
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![20251203_221346](https://github.com/user-attachments/assets/b5950d47-a0f9-4507-bc84-00e2807c7ce9)
+![20251203_220027](https://github.com/user-attachments/assets/1da8deea-e23a-46ce-9717-002c908c164f)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a81e3638-f04d-4d58-b334-ffb7764fc4fd" />
 
 ---
 
